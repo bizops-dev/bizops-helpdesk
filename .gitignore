@@ -31,7 +31,10 @@ share/python-wheels/
 *.egg
 
 helpdesk/docs/current
-helpdesk/public/desk
+helpdesk/public/desk/assets
+helpdesk/public/desk/backup
+helpdesk/public/desk/manifest
+helpdesk/public/desk/videos
 helpdesk/public/frontend
 helpdesk/public/node_modules
 helpdesk/www/helpdesk/index.html
